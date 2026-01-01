@@ -1,0 +1,64 @@
+{
+  "primitives": {
+    "i8": "int",
+    "i16": "int",
+    "i32": "int",
+    "i64": "int",
+    "i128": "int",
+    "isize": "int",
+    "u8": "int",
+    "u16": "int",
+    "u32": "int",
+    "u64": "int",
+    "u128": "int",
+    "usize": "int",
+    "f32": "float",
+    "f64": "float",
+    "bool": "bool",
+    "char": "str",
+    "()": "None"
+  },
+
+  "strings": {
+    "String": "str",
+    "&str": "str",
+    "OsString": "str",
+    "PathBuf": "str",
+    "Cow<str>": "str"
+  },
+
+  "collections": {
+    "Vec<T>": "list[T]",
+    "VecDeque<T>": "collections.deque[T]",
+    "HashMap<K, V>": "dict[K, V]",
+    "BTreeMap<K, V>": "dict[K, V]",
+    "HashSet<T>": "set[T]",
+    "BTreeSet<T>": "set[T]"
+  },
+
+  "wrappers": {
+    "Option<T>": "T | None",
+    "Result<T, E>": "T",
+    "PyResult<T>": "T",
+    "Box<T>": "T",
+    "Arc<T>": "T",
+    "Rc<T>": "T",
+    "&T": "T",
+    "&mut T": "T"
+  },
+
+  "async": {
+    "Future<T>": "typing.Awaitable[T]"
+  },
+
+  "pyo3": {
+    "PyAny": "typing.Any",
+    "PyObject": "typing.Any",
+    "Py<PyAny>": "typing.Any",
+    "Python": "typing.Any"
+  },
+
+  "typing": {
+    "Vec<PyObject>": "list[typing.Any]"
+  }
+}
